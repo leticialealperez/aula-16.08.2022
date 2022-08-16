@@ -10,12 +10,12 @@
 - Excluir um jogo; OK
 - Alterar um jogo; OK
 
-- Listar todos os jogos;
+- Listar todos os jogos; (traz todo mundo, não usar console.log())
 
-- Localizar jogos por nome;
+- Listar jogos por nome;
 - Listar todos os jogos por gênero;
 - Listar todos os jogos por console;
-(OBS: tem que estar tudo em uma função só chamada de filtragem, e os filtros devem ser cumulativos)
+(OBS: tem que estar tudo em uma função só chamada de filtragem, e os filtros devem ser cumulativos, se não mandar nada, mostra todo mundo)
 
 ## Um jogo deverá possuir as seguintes características
 
